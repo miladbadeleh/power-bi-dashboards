@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const projects = {
         project1: {
             title: 'Sales Performance Dashboard',
-            image: './images/first-dashboard.jpg',
+            image: './images/orange.jpg',
             description: 'This interactive dashboard provides comprehensive sales analytics with key performance indicators, regional performance breakdowns, and trend analysis. The solution helped the sales team identify underperforming regions and optimize their strategies.',
             features: [
                 'Dynamic KPI cards with YTD comparisons',
