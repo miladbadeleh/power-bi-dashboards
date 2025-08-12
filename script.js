@@ -95,8 +95,8 @@ document.addEventListener('DOMContentLoaded', function() {
             demoLink: 'https://app.powerbi.com/your-dashboard-link'
         },
         project2: {
-            title: 'Snap Annual Financial Dashboard',
-            image: './images/snap.jpg',
+            title: 'Annual Financial Dashboard',
+            image: './images/snap1.jpg',
             description: 'A comprehensive financial reporting solution that consolidates data from multiple systems to provide real-time insights into profit/loss, cash flow, and budget variance. The dashboard helped reduce financial reporting time by 70%.',
             features: [
                 'Consolidated P&L statement with variance analysis',
