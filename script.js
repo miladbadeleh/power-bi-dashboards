@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         project3: {
             title: 'HR Analytics Dashboard',
-            image: './images/supply-chain-dashboard.svg',
+            image: './images/digikala1.jpg',
             image: './images/supply-chain-dashboard.svg',
             description: 'Workforce analytics solution that tracks key HR metrics including employee turnover, recruitment funnel, training completion, and diversity statistics. The dashboard helped HR identify retention risks and optimize hiring processes.',
             features: [
