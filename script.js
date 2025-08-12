@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
             demoLink: 'https://app.powerbi.com/your-dashboard-link'
         },
         project3: {
-            title: 'Summarized annual sales',
+            title: 'Summarized sales analytics',
             image: './images/digikala1.jpg',
             description: 'Workforce analytics solution that tracks key HR metrics including employee turnover, recruitment funnel, training completion, and diversity statistics. The dashboard helped HR identify retention risks and optimize hiring processes.',
             features: [
