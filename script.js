@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         project4: {
             title: 'Supply Chain Dashboard',
-            image: './images/supply-chain-dashboard.svg',
+            image: './images/baam1.jpg',
             description: 'End-to-end supply chain visibility solution that tracks inventory levels, supplier performance, logistics metrics, and demand forecasting. The dashboard helped reduce inventory carrying costs by 15% and improve on-time deliveries.',
             features: [
                 'Inventory turnover and days on hand analysis',
