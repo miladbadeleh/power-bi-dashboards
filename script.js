@@ -86,23 +86,23 @@ document.addEventListener('DOMContentLoaded', function() {
             image: './images/orange.jpg',
             description: 'This interactive dashboard provides comprehensive sales analytics with key performance indicators, regional performance breakdowns, and trend analysis. The solution helped the sales team identify underperforming regions and optimize their strategies.',
             features: [
-                'Dynamic KPI cards with YTD comparisons',
-                'Interactive map visualization for regional analysis',
-                'Sales trend analysis with forecasting',
+                'Dynamic KPI cards with most important sales indicators',
+                'Top selling products based on the product category',
+                'Sales breakdown based on product category',
                 'Product category performance breakdown',
-                'Drill-through capabilities for detailed analysis'
+                'Top customers and their information based on the total number of orders'
             ],
             demoLink: 'https://app.powerbi.com/your-dashboard-link'
         },
         project2: {
             title: 'Annual Financial Dashboard',
             image: './images/snap1.jpg',
-            description: 'A comprehensive financial reporting solution that consolidates data from multiple systems to provide real-time insights into profit/loss, cash flow, and budget variance. The dashboard helped reduce financial reporting time by 70%.',
+            description: 'A comprehensive financial reporting solution that consolidates data from multiple systems to provide real-time insights into revenue, orders, number of customers, and cost. The dashboard helped reduce financial reporting time by 70%.',
             features: [
                 'Consolidated P&L statement with variance analysis',
                 'Cash flow tracking with forecasting',
                 'Budget vs. actual comparisons',
-                'Interactive financial ratios analysis',
+                'comparison of key financial indicators with previous month',
                 'Automated data refresh from ERP system'
             ],
             demoLink: 'https://app.powerbi.com/your-dashboard-link'
@@ -126,10 +126,10 @@ document.addEventListener('DOMContentLoaded', function() {
             description: 'End-to-end supply chain visibility solution that tracks inventory levels, supplier performance, logistics metrics, and demand forecasting. The dashboard helped reduce inventory carrying costs by 15% and improve on-time deliveries.',
             features: [
                 'Inventory turnover and days on hand analysis',
-                'Supplier performance scorecards',
-                'Logistics and delivery tracking',
+                'breakdown of customers based on occupation',
+                'Top customers based on orders',
                 'Demand forecasting visualization',
-                'Automated alerts for stockouts and overstocks'
+                'breakdown of sales based on country'
             ],
             demoLink: 'https://app.powerbi.com/your-dashboard-link'
         },
