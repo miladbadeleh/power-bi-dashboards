@@ -134,9 +134,9 @@ document.addEventListener('DOMContentLoaded', function() {
             demoLink: 'https://app.powerbi.com/your-dashboard-link'
         },
         project5: {
-            title: 'Customer Analytics Dashboard',
-            image: './images/supply-chain-dashboard.svg',
-            description: 'Customer segmentation and analytics platform that provides insights into customer lifetime value, churn risk, and purchasing patterns. The dashboard helped marketing improve campaign targeting and increase customer retention.',
+            title: 'Executive Dashboard',
+            image: './images/bazaar1.jpg',
+            description: 'This dashboard gives a broad overview of top business indicator which in this case is a app platform called Bazaar. The dashboard helps executives get the general idea of diffrent part of the business performance.',
             features: [
                 'RFM (Recency, Frequency, Monetary) segmentation',
                 'Customer lifetime value calculation',
