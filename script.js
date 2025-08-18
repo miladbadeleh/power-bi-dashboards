@@ -138,7 +138,7 @@ document.addEventListener('DOMContentLoaded', function() {
             image: './images/bazaar1.jpg',
             description: 'This dashboard gives a broad overview of top business indicator which in this case is a app platform called Bazaar. The dashboard helps executives get the general idea of diffrent part of the business performance.',
             features: [
-                'Top business Indicators',
+                'Top business Indicators including',
                 'Conversion of customers',
                 'Segmentation of downloads per country',
                 'Total downloads per month and year',
