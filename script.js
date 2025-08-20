@@ -148,7 +148,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         project6: {
             title: 'Risk Management Dashboard',
-            image: './images/supply-chain-dashboard.svg',
+            image: './images/hiweb1.jpg',
             description: 'Enterprise risk management solution that tracks risk assessments, mitigation actions, and compliance status across the organization. The dashboard provided executives with a single view of enterprise risks and their mitigation progress.',
             features: [
                 'Risk heat map visualization',
