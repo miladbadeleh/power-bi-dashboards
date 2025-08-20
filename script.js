@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', function() {
             demoLink: 'https://app.powerbi.com/your-dashboard-link'
         },
         project6: {
-            title: 'Risk Management Dashboard',
+            title: 'Customer Analytics',
             image: './images/hiweb1.jpg',
             description: 'Enterprise risk management solution that tracks risk assessments, mitigation actions, and compliance status across the organization. The dashboard provided executives with a single view of enterprise risks and their mitigation progress.',
             features: [
