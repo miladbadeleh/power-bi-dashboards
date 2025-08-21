@@ -149,7 +149,7 @@ document.addEventListener('DOMContentLoaded', function() {
         project6: {
             title: 'Customer Analytics',
             image: './images/hiweb1.jpg',
-            description: 'Enterprise risk management solution that tracks risk assessments, mitigation actions, and compliance status across the organization. The dashboard provided executives with a single view of enterprise risks and their mitigation progress.',
+            description: 'Customer analytics that tracks total custoemrs, total orders, profits and average order value. The dashboard provided executives with a single view of enterprise customer analysis.',
             features: [
                 'Risk heat map visualization',
                 'Mitigation action tracking',
