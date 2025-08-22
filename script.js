@@ -154,8 +154,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 'Customer trends per month and per year',
                 'Tracking total orders and customers',
                 'Tracking total orders and customers',
-                'Risk appetite indicators',
-                'Automated risk reporting'
+                'Filtering total customers and toral order per month and per year',
+                'Filtering total profit and average order per month and per year'
             ],
             demoLink: 'https://app.powerbi.com/your-dashboard-link'
         }
