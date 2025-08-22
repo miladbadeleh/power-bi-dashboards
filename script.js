@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function() {
             image: './images/hiweb1.jpg',
             description: 'Customer analytics that tracks total custoemrs, total orders, profits and average order value. The dashboard provided executives with a single view of enterprise customer analysis.',
             features: [
-                'Risk heat map visualization',
+                'Customer trends per month and per year',
                 'Mitigation action tracking',
                 'Compliance status monitoring',
                 'Risk appetite indicators',
