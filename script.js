@@ -152,8 +152,8 @@ document.addEventListener('DOMContentLoaded', function() {
             description: 'Customer analytics that tracks total custoemrs, total orders, profits and average order value. The dashboard provided executives with a single view of enterprise customer analysis.',
             features: [
                 'Customer trends per month and per year',
-                'Mitigation action tracking',
-                'Compliance status monitoring',
+                'Tracking total orders and customers',
+                'Tracking total orders and customers',
                 'Risk appetite indicators',
                 'Automated risk reporting'
             ],
